@@ -1,3 +1,5 @@
+package minicheetahlcm;
+
 struct simulator_lcmt {
    double vb[3];
    double rpy[3];

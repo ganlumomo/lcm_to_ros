@@ -1,3 +1,5 @@
+package minicheetahlcm;
+
 struct leg_control_command_lcmt {
     float tau_ff[12];
     float f_ff[12];
